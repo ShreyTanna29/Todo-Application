@@ -1,8 +1,17 @@
-# React + Vite
+# Introduction.
+This application allows you to manage all your day to day tasks/todos on the go. I have created it as an side project for learning purpose. From myside I have tried my best to not leave a single bug and make it as smooth and efficient as possible. If you find any please leave an issue or PR.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features.
+-> easy creation and deletion of todos.
+-> user can edit/update a todo, if he/she made a mistake while creating it.
+-> auto saving functionality, todos will be saved on your device automatically when you create or edit them. so that you can access them anytime.
+-> simple, smooth and easy to use UI.
+-> clean, scalable and maintainable code for future features and updates.
 
-Currently, two official plugins are available:
+# Tech Stack
+-> React + Vite.
+-> JavaScript.
+-> tailwind CSS. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Live Website.
+check it  out here -> https://todo-application-snowy.vercel.app/
